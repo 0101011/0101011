@@ -6,7 +6,8 @@
 
 <br/>
 
-Hi there! I'm a Technical Writer, Product Manager, and Blog Author with a passion for simplifying complex technical concepts. I have a knack for breaking down intricate topics into easily understandable and engaging content.
+Hi,I'm a Technical Writer, Product Manager, and Blog Author. I occassionaly post here outside of my job.
+Interests are deep learning and NLP mostly with occassional leaps and bounds into adjacent topics.
 
 ## 💼 Projects
 
@@ -29,6 +30,10 @@ TensorShort is a fork of TensorFlow that introduces shorter, cleaner, and more P
 ### 🎨 [**Graffiti AI**](https://github.com/graffiti-ai)
 
 An out-of-control package that continuously generates new graffiti artworks based on feed image data. Unleash your creativity and explore the boundaries of AI-generated art with this unique project.
+
+### 📓 [**Doc'n'Code**](https://github.com/0101011/doc-n-code)
+
+10 Fast Rules for Documenting Software for non-technical writers.
 
 ### 📚 [**Visual PEPs**](https://github.com/0101011/Visual-PEPs)
 
