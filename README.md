@@ -20,7 +20,7 @@ A curated compilation of all TensorFlow runnable Jupyter Notebooks in Russian, m
 
 ### 📓 [**TensorFlow Docs**](https://github.com/tensorflow/docs)
 
-The official documentation repository for TensorFlow, containing guides, tutorials, and API references for the popular machine learning framework. *(All community documentation docs and translations has been moved to [tensorflow/docs-l10n](https://github.com/tensorflow/docs-l10n) for localization efforts.)*
+The official documentation repository for TensorFlow, containing guides, tutorials, and API references for the popular machine learning framework. *(All community documentation docs and translations moved to [tensorflow/docs-l10n](https://github.com/tensorflow/docs-l10n) for localization efforts.)*
 
 ### 🔄 [**TensorShort**](https://github.com/TensorShort)
 
