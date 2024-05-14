@@ -1,6 +1,6 @@
 <div align="center"> 
  <p align="center">
-   🐦 <a href="https://twitter.com/anstepin">Follow me on X</a> • 💻 <a href="https://0101011.github.io/">Web CV</a>
+   🐦 <a href="https://twitter.com/anstepin">Follow me on X</a> • 💻 <a href="https://0101011.github.io/">Website</a>
  </p>
 </div>
 
