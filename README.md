@@ -6,7 +6,7 @@
 
 <br/>
 
-Hi, I'm a Technical Writer, Product Manager, and Blog Author. I occassionaly post here outside of my job.
+Hi, I'm a Technical Writer, Product Manager, and Blog Author. I occassionaly post projects and educational documentations outside of my job.
 Interests are deep learning and NLP mostly with occassional leaps and bounds into adjacent topics.
 
 ## 💼 Projects
