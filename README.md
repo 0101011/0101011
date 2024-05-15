@@ -17,7 +17,7 @@ A comprehensive collection of pre-written code for popular machine learning use 
 
 ### 📓 [**TensorFlow Notebooks**](https://github.com/0101011/tensorflow-docs)
 
-A curated compilation of all TensorFlow runnable Jupyter Notebooks in Russian, making it easier for Russian speakers to dive into the world of TensorFlow and explore its capabilities through interactive coding environments.
+A curated compilation of all TensorFlow runnable Jupyter Notebooks in Russian, making it easier for Russian-speaking countries to dive into the world of TensorFlow and explore its capabilities through interactive coding environments.
 
 ### 📓 [**TensorFlow Docs**](https://github.com/tensorflow/docs)
 
