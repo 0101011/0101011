@@ -43,4 +43,6 @@ A collection of visualized Pythonic code conventions, designed to facilitate fas
 
 An automated text summarizer powered by NLTK (Natural Language Toolkit), helping you quickly grasp the essence of lengthy documents and articles.
 
+<a href="https://ko-fi.com/astepin"><img src="https://assets-global.website-files.com/5c14e387dab576fe667689cf/64f1a9ddd0246590df69ea15_kofi_long_button_dark%25402x-p-800.png" width="300" /></a>
+
 Feel free to explore my projects and reach out if you have any questions or if you'd like to collaborate!
