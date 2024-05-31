@@ -11,9 +11,7 @@ Interests are deep learning and NLP mostly with occassional leaps and bounds int
 
 ## 💼 Projects
 
-### 🤖 [**Bootstrap ML**](https://github.com/0101011/bootstrap-ml)
-
-A comprehensive collection of pre-written code for machine learning and deep learning use cases, all in one convenient place. Whether you're a seasoned practitioner or just starting your ML journey, this repository provides a solid foundation to build upon.
+* 🤖 [**Bootstrap ML**](https://github.com/0101011/bootstrap-ml) A comprehensive collection of pre-written code for machine learning and deep learning use cases, all in one convenient place. Whether you're a seasoned practitioner or just starting your ML journey, this repository provides a solid foundation to build upon.
 
 ### 📓 [**TensorFlow Notebooks**](https://github.com/0101011/tensorflow-docs)
 
