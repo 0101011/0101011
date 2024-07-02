@@ -14,7 +14,7 @@ Hi, I'm a Technical Writer, Product Manager, Blog Author, and a Google Developer
   <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=0101011&theme=dark" alt="GitHub Streak" width="400"/>
     <img src="https://github-readme-stats.vercel.app/api?username=0101011&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Streak" width="400"/>
-    <img src="https://github-contributor-stats.vercel.app/api?username=0101011&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos""/>
+    <img src="https://github-contributor-stats.vercel.app/api?username=0101011&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="400"/>
   </div>
   <div>
     <a href="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=docs">
@@ -48,8 +48,6 @@ Hi, I'm a Technical Writer, Product Manager, Blog Author, and a Google Developer
 <a href="https://ko-fi.com/astepin"><img src="https://assets-global.website-files.com/5c14e387dab576fe667689cf/64f1a9ddd0246590df69ea15_kofi_long_button_dark%25402x-p-800.png" width="300" /></a>
 
 Feel free to explore my projects and reach out if you have any questions or if you'd like to collaborate!
-
-## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
