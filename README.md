@@ -7,7 +7,7 @@
 Hi, I'm a Technical Writer, Product Manager, Blog Author, and a Google Developer Expert (GDE) 2019 in Machine Learning. I occasionally post projects and educational documentation outside of my job. My interests are deep learning and NLP, with occasional leaps and bounds into adjacent topics.
 
 ![]()<br/>
-[![](https://visitcount.itsvg.in/api?id=0101011&icon=7&color=4)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=0101011&icon=7&color=4)
 
 ## 🔝 Top Contributed Repositories
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
