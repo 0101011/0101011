@@ -19,7 +19,7 @@ Hi, I'm a Technical Writer, Product Manager, Blog Author, and a Google Developer
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=docs&theme=radical" width="400"/>
     </a>
     <a href="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=bootstrap-ml">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=bootstrap-ml&theme=github_dark" width="400"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=bootstrap-ml&theme=radical" width="400"/>
     </a>
   </div>
 </div>
