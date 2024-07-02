@@ -9,6 +9,12 @@
 Hi, I'm a Technical Writer, Product Manager, and Blog Author. I occassionaly post projects and educational documentations outside of my job.
 Interests are deep learning and NLP mostly with occassional leaps and bounds into adjacent topics.
 
+## 🔝 Top Contributed Repositories
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=0101011&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0101011&theme=radical" alt="GitHub Streak" />
+</div>
+
 ## 💼 Projects
 
 * 🤖 [**Bootstrap ML**](https://github.com/0101011/bootstrap-ml): A comprehensive collection of pre-written code for machine learning and deep learning use cases, all in one convenient place. Whether you're a seasoned practitioner or just starting your ML journey, this repository provides a solid foundation to build upon.
@@ -30,3 +36,10 @@ Interests are deep learning and NLP mostly with occassional leaps and bounds int
 <a href="https://ko-fi.com/astepin"><img src="https://assets-global.website-files.com/5c14e387dab576fe667689cf/64f1a9ddd0246590df69ea15_kofi_long_button_dark%25402x-p-800.png" width="300" /></a>
 
 Feel free to explore my projects and reach out if you have any questions or if you'd like to collaborate!
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
