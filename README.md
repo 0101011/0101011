@@ -3,16 +3,18 @@
    🐦 <a href="https://twitter.com/anstepin">Follow me on X</a> • 💻 <a href="https://0101011.github.io/">Website</a> • 💻 <a href="https://astepin.hashnode.dev/">Hashnode Blog Articles</a>
  </p>
 </div>
-
 <br/>
+Hi, I'm a Technical Writer, Product Manager, Blog Author, and a Google Developer Expert (GDE) 2019 in Machine Learning. I occasionally post projects and educational documentation outside of my job. My interests are deep learning and NLP, with occasional leaps and bounds into adjacent topics.
 
-Hi, I'm a Technical Writer, Product Manager, Blog Author, and a Google Developer Expert (GDE) in Machine Learning. I occasionally post projects and educational documentation outside of my job. My interests are deep learning and NLP, with occasional leaps and bounds into adjacent topics.
+![]()<br/>
+[![](https://visitcount.itsvg.in/api?id=0101011&icon=7&color=4)](https://visitcount.itsvg.in)
 
 ## 🔝 Top Contributed Repositories
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <div>
-    <img src="https://github-contributor-stats.vercel.app/api?username=0101011&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="400"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0101011&theme=radical" alt="GitHub Streak" width="400"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0101011&theme=dark" alt="GitHub Streak" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=0101011&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Streak" width="400"/>
+    <img src="https://github-contributor-stats.vercel.app/api?username=0101011&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos""/>
   </div>
   <div>
     <a href="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=docs">
