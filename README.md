@@ -13,7 +13,7 @@ Hi, I'm a Technical Writer, Product Manager, Blog Author, and a Google Developer
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=0101011&theme=dark" alt="GitHub Streak" width="400"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=0101011&theme=chartreuse-dark&hide_border=false&include_all_commits=true" alt="GitHub Streak" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=0101011&theme=radical&hide_border=false&include_all_commits=true" width="400"/>
   </div>
   <div>
     <a href="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=docs">
@@ -21,7 +21,7 @@ Hi, I'm a Technical Writer, Product Manager, Blog Author, and a Google Developer
     </a>
     <a href="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=bootstrap-ml">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=bootstrap-ml&theme=radical" width="400"/>
-           <img src="https://github-contributor-stats.vercel.app/api?username=0101011&limit=7&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="400"/>
+      <img src="https://github-contributor-stats.vercel.app/api?username=0101011&limit=7&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="400"/>
     </a>
   </div>
 </div>
