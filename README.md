@@ -40,6 +40,12 @@ Hi, I'm a Technical Writer, Product Manager, Blog Author, and a Google Developer
 [![Andrew Stepin Docs at TensorFlow Dev Summit 2019](https://ytcards.demolab.com/?id=bDZ2q6OktQI&title=Andrew%20Stepin%20at%20DevSummit&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32501 "Andrew Stepin Docs at TensorFlow Dev Summit 2019")](https://youtu.be/bDZ2q6OktQI?t=14712)
 [![Graffiti AI Training](https://ytcards.demolab.com/?id=J_i_dvPpku4&title=Graffiti%20AI%20Training&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=512 "Graffiti AI Training")](https://youtu.be/J_i_dvPpku4)
 
+## 💻 Books and Publications
+<div>
+    <a href="https://github.com/0101011/0101011/blob/main/preview.jpg" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/0101011/0101011/blob/main/preview.jpg" alt="Little AI" width="200" style="max-width: 100%; height: auto;">
+    </a>
+</div>
 
 ## 💼 Projects
 
