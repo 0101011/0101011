@@ -13,6 +13,13 @@ Interests are deep learning and NLP mostly with occassional leaps and bounds int
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=0101011&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0101011&theme=radical" alt="GitHub Streak" />
+
+ <a href="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=docs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=docs&theme=radical"/>
+  </a>
+ <a href="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=bootstrap-ml">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=bootstrap-ml&theme=github_dark"/>
+</a>
 </div>
 
 ## 💼 Projects
