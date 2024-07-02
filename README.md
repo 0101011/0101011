@@ -36,6 +36,10 @@ Hi, I'm a Technical Writer, Product Manager, Blog Author, and a Google Developer
   </div>
 </div>
 
+# 💻 Featured YouTube Videos
+[![Andrew Stepin Docs at TensorFlow Dev Summit 2019](https://ytcards.demolab.com/?id=bDZ2q6OktQI&title=Andrew%20Stepin%20Docs%20Tensorflow&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32501 "Andrew Stepin Docs at TensorFlow Dev Summit 2019")](https://youtu.be/bDZ2q6OktQI?t=14712)
+
+
 
 ## 💼 Projects
 
