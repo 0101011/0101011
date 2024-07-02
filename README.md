@@ -6,20 +6,22 @@
 
 <br/>
 
-Hi, I'm a Technical Writer, Product Manager, and Blog Author. I occassionaly post projects and educational documentations outside of my job.
-Interests are deep learning and NLP mostly with occassional leaps and bounds into adjacent topics.
+Hi, I'm a Technical Writer, Product Manager, Blog Author, and a Google Developer Expert (GDE) in Machine Learning. I occasionally post projects and educational documentation outside of my job. My interests are deep learning and NLP, with occasional leaps and bounds into adjacent topics.
 
 ## 🔝 Top Contributed Repositories
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=0101011&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0101011&theme=radical" alt="GitHub Streak" />
-
- <a href="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=docs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=docs&theme=radical"/>
-  </a>
- <a href="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=bootstrap-ml">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=bootstrap-ml&theme=github_dark"/>
-</a>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <div>
+    <img src="https://github-contributor-stats.vercel.app/api?username=0101011&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0101011&theme=radical" alt="GitHub Streak" />
+  </div>
+  <div>
+    <a href="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=docs">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=docs&theme=radical"/>
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=bootstrap-ml">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=bootstrap-ml&theme=github_dark"/>
+    </a>
+  </div>
 </div>
 
 ## 💼 Projects
@@ -44,9 +46,17 @@ Interests are deep learning and NLP mostly with occassional leaps and bounds int
 
 Feel free to explore my projects and reach out if you have any questions or if you'd like to collaborate!
 
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FFFFFF.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-019393.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
