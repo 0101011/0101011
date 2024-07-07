@@ -43,7 +43,7 @@ Hi, I'm a Technical Writer, Product Manager, Blog Author, and a Google Developer
 ## 💻 Books and Publications
 <div>
     <a href="https://astepin.gumroad.com/l/little-ai" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/0101011/0101011/blob/main/preview.jpg" alt="Little AI" width="200" style="max-width: 100%; height: auto;">
+        <img src="https://github.com/0101011/0101011/blob/main/assets/images/publications/preview.jpg" alt="Little AI" width="200" style="max-width: 100%; height: auto;">
     </a>
 </div>
 
