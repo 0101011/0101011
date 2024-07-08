@@ -17,16 +17,16 @@ Hi, I'm a Technical Writer, Product Manager, Blog Author, and a Google Developer
     <img src="https://github-readme-stats.vercel.app/api?username=0101011&theme=radical&hide_border=false&include_all_commits=true" width="400"/>
   </div>
   <div>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=docs">
+    <a href="https://github.com/tensorflow/docs">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=docs&theme=gruvbox" width="400"/>
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=bootstrap-ml">
+    <a href="https://github.com/0101011/bootstrap-ml">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=bootstrap-ml&theme=radical" width="400"/>
     <a>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=visual-peps">
+    <a href="https://github.com/0101011/Visual-PEPs">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=visual-peps&theme=github_dark" width="400"/>
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=analitika">
+    <a href="https://github.com/0101011/analitika">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=analitika&theme=chartreuse-dark" width="400"/>
     </a>
      <div>
