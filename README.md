@@ -8,7 +8,7 @@ Hi, I'm a Technical Writer, Product Manager, Blog Author, and a Google Developer
 
 ![]()<br/>
 ![](https://visitcount.itsvg.in/api?id=0101011&icon=7&color=4)
-![](https://img.shields.io/github/stars/0101011?style=social&label=Total%20Stars%20earned)
+![](https://img.shields.io/github/stars/0101011?style=social&label=Total%20Stars%20Earned)
 
 ## 🔝 Top Contributed Repositories
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
