@@ -10,7 +10,15 @@ Hi, I'm a Technical Writer, Product Manager, Blog Author, and a Google Developer
 ![](https://visitcount.itsvg.in/api?id=0101011&icon=7&color=4)<br/>
 ![](https://img.shields.io/github/stars/0101011?style=social&label=Total%20Stars%20Earned)
 
-## 🔝 Top Contributed Repositories
+## Little Brags I'm Proud Of
+
+- 🏅 Recognized as a Google Developer Expert (GDE) in Machine Learning 2019
+- 📘 Author of Cooking a Black Box book, Bootstrap ML, Graffiti AI
+- 🎤 Featured technical writer at TensorFlow Dev Summit 2019
+- 🌟 Top contributor to TensorFlow documentation
+- 🎓 Mentored 30+ open-source writers, students and IC product contributors
+
+## Top Contributed Repositories
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=0101011&theme=dark" alt="GitHub Streak" width="400"/>
