@@ -361,8 +361,8 @@
     </circle>
   </g>
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="504" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">My tools of choice are C++ and Python for most problems</text>
+    <rect width="531" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">My tools are C++, Javascript, Python, Java for most problems</text>
   </g>
   <g transform="translate(10, 336)" class="typing-7">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
