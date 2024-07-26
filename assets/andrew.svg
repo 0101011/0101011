@@ -1,5 +1,5 @@
 <svg width="550" height="398" viewBox="0 0 550 398" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <style>
+<style>
     .bubble {
       fill: #e9e9eb;
     }
@@ -23,61 +23,61 @@
     }
 
     .msg-1 {
-      animation: wait 0.25s, msg-1 0.1s 0.25s;
+      animation: wait 0.167s, msg-1 0.1s 0.167s;
     }
 
     .typing-2 {
       opacity: 0;
-      animation: wait 1.25s, fade-in-out 0.75s 1.25s;
+      animation: wait 0.833s, fade-in-out 0.75s 0.833s;
     }
 
     .msg-2 {
-      animation: wait 2.1s, msg-2 0.1s 2.1s;
+      animation: wait 1.4s, msg-2 0.1s 1.4s;
     }
 
     .typing-3 {
       opacity: 0;
-      animation: wait 2.5s, fade-in-out 0.75s 2.5s;
+      animation: wait 1.67s, fade-in-out 0.75s 1.67s;
     }
 
     .msg-3 {
-      animation: wait 3.35s, msg-3 0.1s 3.35s;
+      animation: wait 2.23s, msg-3 0.1s 2.23s;
     }
 
     .typing-4 {
       opacity: 0;
-      animation: wait 3.75s, fade-in-out 0.75s 3.75s;
+      animation: wait 2.5s, fade-in-out 0.75s 2.5s;
     }
 
     .msg-4 {
-      animation: wait 4.6s, msg-4 0.1s 4.6s;
+      animation: wait 3.07s, msg-4 0.1s 3.07s;
     }
 
     .msg-5 {
-      animation: wait 5.85s, msg-5 0.1s 5.85s;
+      animation: wait 3.9s, msg-5 0.1s 3.9s;
     }
 
     .msg-6 {
-      animation: wait 7.1s, msg-6 0.1s 8.35s;
+      animation: wait 4.73s, msg-6 0.1s 4.73s;
     }    
     
     .typing-5 {
       opacity: 0;
-      animation: wait 5s, fade-in-out 0.75s 5s;
+      animation: wait 3.33s, fade-in-out 0.75s 3.33s;
     }    
     
     .typing-6 {
       opacity: 0;
-      animation: wait 6.25s, fade-in-out 0.75s 6.25s;
+      animation: wait 4.17s, fade-in-out 0.75s 4.17s;
     }
 
     .typing-7 {
       opacity: 0;
-      animation: wait 7.5s, fade-in-out 0.75s 7.5s;
+      animation: wait 5s, fade-in-out 0.75s 5s;
     }
 
     .msg-7 {
-      animation: wait 8.35s, msg-6 0.1s 7.1s;
+      animation: wait 5.57s, msg-6 0.1s 5.57s;
     }    
     
     @keyframes wait {
@@ -187,7 +187,8 @@
       }
     }
 
-  </style>
+</style>
+
   
   <defs>
     <style>
@@ -324,7 +325,7 @@
     </circle>
   </g>
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="269" height="42.1302" rx="18.0355" class="bubble" />
+    <rect width="273" height="42.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">🎓 Mentor at 2 tech programs</text>    
   </g>  
   <g transform="translate(10, 192)" class="typing-4">
