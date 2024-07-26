@@ -7,25 +7,34 @@
 Hi, I'm a Technical Writer, Product Manager, Blog Author, and a Google Developer Expert (GDE) 2019 in Machine Learning. I occasionally post projects and educational documentation outside of my job. My interests are deep learning and NLP, with occasional leaps and bounds into adjacent topics.
 
 ![]()<br/>
-![](https://visitcount.itsvg.in/api?id=0101011&icon=7&color=4)
+![](https://visitcount.itsvg.in/api?id=0101011&icon=7&color=4)<br/>
+![](https://img.shields.io/github/stars/0101011?style=social&label=Total%20Stars%20Earned)
 
-## 🔝 Top Contributed Repositories
+## Little Brags I'm Proud Of
+
+- 🏅 Recognized as a Google Developer Expert (GDE) in Machine Learning 2019
+- 📘 Author of Cooking a Black Box book, Bootstrap ML, Graffiti AI
+- 🎤 Featured technical writer at TensorFlow Dev Summit 2019
+- 🌟 Top contributor to TensorFlow documentation
+- 🎓 Mentored 30+ open-source writers, students and IC product contributors
+
+## Top Contributed Repositories
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=0101011&theme=dark" alt="GitHub Streak" width="400"/>
     <img src="https://github-readme-stats.vercel.app/api?username=0101011&theme=radical&hide_border=false&include_all_commits=true" width="400"/>
   </div>
   <div>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=docs">
+    <a href="https://github.com/tensorflow/docs">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=docs&theme=gruvbox" width="400"/>
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=bootstrap-ml">
+    <a href="https://github.com/0101011/bootstrap-ml">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=bootstrap-ml&theme=radical" width="400"/>
     <a>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=visual-peps">
+    <a href="https://github.com/0101011/Visual-PEPs">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=visual-peps&theme=github_dark" width="400"/>
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=analitika">
+    <a href="https://github.com/0101011/analitika">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0101011&repo=analitika&theme=chartreuse-dark" width="400"/>
     </a>
      <div>
