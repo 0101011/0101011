@@ -380,7 +380,7 @@
     </circle>
   </g>
   <g transform="translate(10, 336)" class="msg-7">
-    <rect width="341" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Feel free to reach out astepin@pm.me</text>
-  </g>
+  <rect width="351" height="42" rx="18.0355" class="bubble" />
+  <text x="15" y="27">Feel free to reach out <a href="mailto:astepin@pm.me"><tspan fill="blue">stepina@acm.org</tspan></a></text>
+</g>
 </svg>
