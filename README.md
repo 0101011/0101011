@@ -1,4 +1,4 @@
-[![](https://github.com/0101011/0101011/blob/main/assets/andrew.svg)](https://0101011.github.io)
+[![](https://github.com/0101011/0101011/blob/main/assets/andrew.svg)](mailto:astepin@pm.me)
 <div align="center"> 
  <p align="center">
    🐦 <a href="https://twitter.com/anstepin">Follow me on X</a> • 💻 <a href="https://0101011.github.io/">Website</a> • 💻 <a href="https://astepin.hashnode.dev/">Hashnode Blog Articles</a>
