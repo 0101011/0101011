@@ -19,65 +19,65 @@
 
     .typing-1 {
       opacity: 0;
-      animation: fade-in-out 1.5s;
+      animation: fade-in-out 0.25s;
     }
 
     .msg-1 {
-      animation: wait 1.7s, msg-1 0.2s 1.7s;
+      animation: wait 0.25s, msg-1 0.1s 0.25s;
     }
 
     .typing-2 {
       opacity: 0;
-      animation: wait 2.5s, fade-in-out 1.5s 2.5s;
+      animation: wait 1.25s, fade-in-out 0.75s 1.25s;
     }
 
     .msg-2 {
-      animation: wait 4.2s, msg-2 0.2s 4.2s;
+      animation: wait 2.1s, msg-2 0.1s 2.1s;
     }
 
     .typing-3 {
       opacity: 0;
-      animation: wait 5s, fade-in-out 1.5s 5s;
+      animation: wait 2.5s, fade-in-out 0.75s 2.5s;
     }
 
     .msg-3 {
-      animation: wait 6.7s, msg-3 0.2s 6.7s;
+      animation: wait 3.35s, msg-3 0.1s 3.35s;
     }
 
     .typing-4 {
       opacity: 0;
-      animation: wait 7.5s, fade-in-out 1.5s 7.5s;
+      animation: wait 3.75s, fade-in-out 0.75s 3.75s;
     }
 
     .msg-4 {
-      animation: wait 9.2s, msg-4 0.2s 9.2s;
+      animation: wait 4.6s, msg-4 0.1s 4.6s;
     }
 
     .msg-5 {
-      animation: wait 11.7s, msg-5 0.2s 11.7s;
+      animation: wait 5.85s, msg-5 0.1s 5.85s;
     }
 
     .msg-6 {
-      animation: wait 14.2s, msg-6 0.2s 16.7s;
+      animation: wait 7.1s, msg-6 0.1s 8.35s;
     }    
     
     .typing-5 {
       opacity: 0;
-      animation: wait 10s, fade-in-out 1.5s 10s;
+      animation: wait 5s, fade-in-out 0.75s 5s;
     }    
     
     .typing-6 {
       opacity: 0;
-      animation: wait 12.5s, fade-in-out 1.5s 12.5s;
+      animation: wait 6.25s, fade-in-out 0.75s 6.25s;
     }
 
     .typing-7 {
       opacity: 0;
-      animation: wait 15s, fade-in-out 1.5s 15s;
+      animation: wait 7.5s, fade-in-out 0.75s 7.5s;
     }
 
     .msg-7 {
-      animation: wait 16.7s, msg-6 0.2s 14.2s;
+      animation: wait 8.35s, msg-6 0.1s 7.1s;
     }    
     
     @keyframes wait {
@@ -265,7 +265,7 @@
     </circle>
   </g>
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="152" height="42" rx="18.0355" />
+    <rect width="145" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Andrew</text>
   </g>
   <g transform="translate(10, 48)" class="typing-2">
@@ -304,9 +304,9 @@
     </circle>
   </g>
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="349" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Google Developer Expert in ML (2019)</text>    
-    <text x="15" y="50">Cooking a Black Box book author</text>
+    <rect width="369" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">🏅 Google Developer Expert in ML (2019)</text>    
+    <text x="15" y="50">📘 Cooking a Black Box book author</text>
   </g>
   <g transform="translate(10, 240)" class="typing-5">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
@@ -324,8 +324,8 @@
     </circle>
   </g>
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="252" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Mentor at 2 tech programs</text>    
+    <rect width="269" height="42.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">🎓 Mentor at 2 tech programs</text>    
   </g>  
   <g transform="translate(10, 192)" class="typing-4">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
