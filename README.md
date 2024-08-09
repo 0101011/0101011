@@ -5,7 +5,7 @@
  </p>
 </div>
 <br/>
-Hi, I'm a Technical Writer, Product Manager, Blog Author, and a Google Developer Expert (GDE) 2019 in Machine Learning. I occasionally post projects and educational documentation outside of my job. My interests are deep learning and NLP, with occasional leaps and bounds into adjacent topics.
+Hi, I'm a Technical Writer, Product Manager, Blog Author, and a Google Developer Expert (GDE) 2019 in Machine Learning. Interests are deep learning, LLM and NLP, with occasional leaps and bounds into adjacent topics. I occasionally post projects and educational documentation outside of my job - feel free to follow and explore!
 
 ![]()<br/>
 ![](https://visitcount.itsvg.in/api?id=0101011&icon=7&color=4)<br/>
